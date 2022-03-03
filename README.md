@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello! I am...
+- a Software Engineer with rich experience in marketing and education
+- currently in pursuit of a position that supports my ongoing growth
+- looking for a team that shares my core values of creativity, cooperation and purpose.
+- enrolled in Turing School of Software & Design with a projected completion date in June 2022
 
 <!--
 **markertmer/markertmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
