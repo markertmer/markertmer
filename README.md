@@ -37,6 +37,10 @@
 [![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:mark.ertmer@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Strava](https://user-images.githubusercontent.com/91342410/156678563-486bbfa3-e776-4fce-a0bc-067021dd95ef.png)](https://www.strava.com/athletes/19642981)
 
+<a href="https://www.strava.com/athletes/19642981" target="_blank">
+<img src="https://user-images.githubusercontent.com/91342410/156678563-486bbfa3-e776-4fce-a0bc-067021dd95ef.png" alt="strava icon" >
+</a>
+
 
 
 
