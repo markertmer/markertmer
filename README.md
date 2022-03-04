@@ -1,10 +1,11 @@
 # Hello! I am...
-- a Software Engineer with rich experience in marketing and education
-- currently in pursuit of a position that supports my ongoing growth
+- a Software Engineer with rich experience in marketing and education.
+- currently in pursuit of a position that supports my ongoing growth.
 - looking for a team that shares my core values of creativity, cooperation and purpose.
-- enrolled in Turing School of Software & Design with a projected completion date in June 2022
+- enrolled in Turing School of Software & Design with a projected completion date in __June of 2022__
+- pleased to meet you!
 
-## Im best at:
+## I'm best at
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
 ![Rails](https://user-images.githubusercontent.com/64919819/113647936-ffe5e400-9648-11eb-88b7-a85a0a20ca92.png)
 ![Rspec](https://user-images.githubusercontent.com/64919819/113648167-6965f280-9649-11eb-8794-0f1082ae8d1c.png)
@@ -25,17 +26,28 @@
 ![CircleCI](https://user-images.githubusercontent.com/64919819/113648644-29ebd600-964a-11eb-91a3-1e50b7c415aa.png)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white")
 -->
-
-## Favorite Practies, Principles & Processes:
+## Preferred Practies, Principles & Processes
 ![OOP](https://user-images.githubusercontent.com/64919819/113648808-77684300-964a-11eb-8575-05aeaa946a6f.png)
 ![TDD](https://user-images.githubusercontent.com/64919819/113648827-7f27e780-964a-11eb-8f9e-dfdc2ed077c5.png)
 ![MVC](https://user-images.githubusercontent.com/64919819/113648848-8949e600-964a-11eb-833f-91872b6f3fe0.png)
 ![REST](https://user-images.githubusercontent.com/64919819/113648856-8ea73080-964a-11eb-8e85-6f580a54eaca.png)
 
-[![LinkedIn](https://user-images.githubusercontent.com/64919819/113643549-cbb9f580-963f-11eb-8311-90b22051f631.png)](https://www.linkedin.com/in/mark-ertmer-aa93981ab/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:mark.ertmer@gmail.com)
+## Find me here
+[![LinkedIn](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)](https://www.linkedin.com/in/mark-ertmer-aa93981ab/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:mark.ertmer@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Strava](https://user-images.githubusercontent.com/91342410/156677691-5cd38a5e-09f6-4f1e-83af-6ef8e7378258.png)](https://www.strava.com/athletes/19642981)
+
+
+
+
+
+
 <!--
 **markertmer/markertmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![LinkedIN](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)
+![Strava](https://user-images.githubusercontent.com/91342410/156677691-5cd38a5e-09f6-4f1e-83af-6ef8e7378258.png)
+
 
 Here are some ideas to get you started:
 
