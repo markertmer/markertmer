@@ -35,7 +35,7 @@
 ## Find me here
 [![LinkedIn](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)](https://www.linkedin.com/in/mark-ertmer-aa93981ab/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:mark.ertmer@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Strava](https://user-images.githubusercontent.com/91342410/156678378-e607f984-5e4a-4faf-ac0b-1be8bc562e9d.png)](https://www.strava.com/athletes/19642981)
+[![Strava](https://user-images.githubusercontent.com/91342410/156678563-486bbfa3-e776-4fce-a0bc-067021dd95ef.png)](https://www.strava.com/athletes/19642981)
 
 
 
@@ -47,6 +47,7 @@
 
 ![LinkedIN](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)
 ![Strava](https://user-images.githubusercontent.com/91342410/156677691-5cd38a5e-09f6-4f1e-83af-6ef8e7378258.png)
+![Strava](https://user-images.githubusercontent.com/91342410/156678563-486bbfa3-e776-4fce-a0bc-067021dd95ef.png)
 
 
 Here are some ideas to get you started:
@@ -60,4 +61,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Strava](https://user-images.githubusercontent.com/91342410/156678378-e607f984-5e4a-4faf-ac0b-1be8bc562e9d.png)
+
