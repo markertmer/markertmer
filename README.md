@@ -38,7 +38,7 @@
 - ride bikes 
 - drink beer
 - play heavy metal
-- take part in shenanigans
+- start shenanigans
 - go places
 - make stuff
 - do stuff
