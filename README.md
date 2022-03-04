@@ -4,10 +4,10 @@
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
 - Enrolled in Turing School of Software & Design with a projected completion date in __June of 2022__
 
-## Currently learning
+## Currently Learning
 - API integration & deployment
 
-## I'm best at
+## Best At
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
 ![Rails](https://user-images.githubusercontent.com/64919819/113647936-ffe5e400-9648-11eb-88b7-a85a0a20ca92.png)
 ![Rspec](https://user-images.githubusercontent.com/64919819/113648167-6965f280-9649-11eb-8794-0f1082ae8d1c.png)
@@ -34,7 +34,7 @@
 ![MVC](https://user-images.githubusercontent.com/64919819/113648848-8949e600-964a-11eb-833f-91872b6f3fe0.png)
 ![REST](https://user-images.githubusercontent.com/64919819/113648856-8ea73080-964a-11eb-8e85-6f580a54eaca.png)
 
-## I like to
+## Likes To
 - ride bikes 
 - drink beer
 - play heavy metal
