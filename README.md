@@ -32,7 +32,8 @@
 ![MVC](https://user-images.githubusercontent.com/64919819/113648848-8949e600-964a-11eb-833f-91872b6f3fe0.png)
 ![REST](https://user-images.githubusercontent.com/64919819/113648856-8ea73080-964a-11eb-8e85-6f580a54eaca.png)
 
-
+[![LinkedIn](https://user-images.githubusercontent.com/64919819/113643549-cbb9f580-963f-11eb-8311-90b22051f631.png)](https://www.linkedin.com/in/mark-ertmer-aa93981ab/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:mark.ertmer@gmail.com)
 <!--
 **markertmer/markertmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
