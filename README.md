@@ -5,7 +5,7 @@
 - Enrolled in Turing School of Software & Design with a projected completion date in __June of 2022__
 
 ## Currently Learning
-- API integration & deployment
+- Consuming, Building & Exposing APIs
 
 ## Best At
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
