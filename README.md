@@ -1,4 +1,4 @@
-# Hi, I'm Mark! (he/him)
+# Hi, I'm Mark!
 ## I am...
 - A Software Engineer with rich experience in marketing and education.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
