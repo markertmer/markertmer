@@ -1,11 +1,13 @@
-# Mark Ertmer (he/him)
-- Software Engineer with rich experience in marketing and education.
+# Hi, I'm Mark! (he/him)
+## I am...
+- A Software Engineer with rich experience in marketing and education.
 - Currently in pursuit of a position that supports my ongoing growth.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
 - Enrolled in Turing School of Software & Design with a projected completion date in __June of 2022__
 
 ## Currently Learning
 - Consuming, Building & Exposing APIs
+- Continuous Integration / Continuous Deployment
 
 ## Best At
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
