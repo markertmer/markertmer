@@ -1,9 +1,9 @@
 # Hi, I'm Mark! (he/him)
 ## I am...
 - A Software Engineer with rich experience in marketing and education.
-- Currently in pursuit of a position that supports my ongoing growth.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
 - Enrolled in Turing School of Software & Design with a projected completion date in __June of 2022__
+- Currently in pursuit of a position that supports my ongoing growth.
 
 ## Currently Learning
 - Consuming, Building & Exposing APIs
