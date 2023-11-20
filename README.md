@@ -60,13 +60,7 @@ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 ![REST](https://user-images.githubusercontent.com/64919819/113648856-8ea73080-964a-11eb-8e85-6f580a54eaca.png)
 
 ## I Like To...
-- ride bikes 
-- drink beer
-- play heavy metal
-- start shenanigans
-- go places
-- make stuff
-- do stuff
+:bicyclist:ride bikes :beer:drink beer 🤘play heavy metal 😈start shenanigans 🚀go places :art:make stuff ⛺do stuff
 
 ## Find Me!
 [![LinkedIn](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)](https://www.linkedin.com/in/mark-ertmer-aa93981ab/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
