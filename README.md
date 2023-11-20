@@ -4,7 +4,7 @@
 - Currently in pursuit of a position that supports my ongoing growth.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/markertmer/github-readme-stats)
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markertmer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages & Frameworks
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
