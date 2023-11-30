@@ -9,7 +9,6 @@
 -->
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markertmer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-eight-eta-73.vercel.app/api/top-langs/?username=markertmer&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://github.com/anuraghazra/github-readme-stats#top-languages-card
 https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
